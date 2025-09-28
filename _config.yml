@@ -2,11 +2,14 @@
 title: "Hossein Mahani"
 description: "Mechanical Engineer | Additive Manufacturing, Nanocomposites, Powder Processing"
 # GitHub Pages Jekyll theme (no local install needed)
-remote_theme: pages-themes/modernist@v0.2.0
+remote_theme: "just-the-docs/just-the-docs"
 plugins:
   - jekyll-remote-theme
-  - jekyll-seo-tag
-  - jekyll-sitemap
+
+# Just the Docs options
+just_the_docs:
+  search_enabled: false
+  color_scheme: light
 
 # Site settings
 author:
