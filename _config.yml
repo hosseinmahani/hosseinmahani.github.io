@@ -1,1 +1,32 @@
 
+title: "Hossein Mahani"
+description: "Mechanical Engineer | Additive Manufacturing, Nanocomposites, Powder Processing"
+# GitHub Pages Jekyll theme (no local install needed)
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Site settings
+author:
+  name: "Hossein Mahani"
+  email: "h.mmahani@gmail.com"
+  affiliation: "Isfahan University of Technology"
+  location: "Isfahan, Iran"
+
+# Nav (shows at top)
+nav:
+  - name: "About"
+    link: /
+  - name: "Publications"
+    link: /publications
+  - name: "Patents"
+    link: /patents
+  - name: "CV"
+    link: /cv
+  - name: "Contact"
+    link: /contact
+
+# SEO
+url: "https://hosseinmahani.github.io"
