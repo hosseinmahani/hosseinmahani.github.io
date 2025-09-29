@@ -8,6 +8,13 @@ permalink: /cv
 
 - **Download full CV (PDF):** <a href="/assets/cv/Hossein-Mahani-CV.pdf">Hossein-Mahani-CV.pdf</a>
 
+## Education
+- **M.Sc., Mechanical Engineering**, Isfahan University of Technology (2017–2020) — GPA 3/4  
+  Thesis: *Mechanical, thermal, and structural properties of PLA/TPS/nanoclay filament for 3D printing* — **A+**  
+- **B.Sc., Mechanical Engineering**, Islamic Azad University of Najafabad (2013–2017) — GPA 3/4
+
+
+
 ## Snapshot
 - **R&D Engineer**, Hejrat Naghshe Jahan Co. (Jan 2021 – Aug 2023)  
   Quality assurance; metrology gauge design; CNC programming; CAD/CAM; manufacturing simulation; new part design.
