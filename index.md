@@ -31,4 +31,4 @@ My goal is to contribute to the advancement of reliable AM materials and to expa
 
 
 
-> See **[Publications](/publications)**, **[Patents](/patents)**, and **[CV](/cv)** for details.
+> See **[Publications](/publications)**, **[CV](/cv)** , and **[Contact](/contact)** for details.
