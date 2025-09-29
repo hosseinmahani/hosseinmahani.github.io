@@ -4,7 +4,7 @@ title: "About"
 ---
 
 # Hossein Mahani
-*Mechanical Engineer — Additive Manufacturing, Nanocomposites, Powder Processing*
+*Mechanical Engineer & Researcher*
 
 <img src="/assets/img/headshot.jpg" alt="Hossein Mahani" style="max-width:140px;border-radius:14px;margin:8px 0;">
 
@@ -18,14 +18,13 @@ title: "About"
 - Materials characterization  
 - Finite Element Analysis (FEA)
 
-## Education
-- **M.Sc., Mechanical Engineering**, Isfahan University of Technology (2017–2020) — GPA 3/4  
-  Thesis: *Mechanical, thermal, and structural properties of PLA/TPS/nanoclay filament for 3D printing* — **A+**  
-- **B.Sc., Mechanical Engineering**, Islamic Azad University of Najafabad (2013–2017) — GPA 3/4
+I am a mechanical engineer focused on **Additive Manufacturing (AM)** and advanced materials.  
+My interests include **metal and polymer 3D printing**, process–structure–property relationships, and **nanocomposite** design.  
+I enjoy translating research into practical solutions—**filament and powder development**, **DfAM**, and **process optimization**.  
+Recent work covers **powder processing** chains, **PLA/TPS/nanoclay** bio-based systems, and AM component characterization.  
+I’m also interested in **finite element analysis** for AM parts, linking simulation to experimental validation.  
+My long-term goal is to develop reliable AM materials and workflows for **medical devices** and **lightweight structures**.
 
-## Recent Highlights
-- Journal papers in *Polymer Advanced Technology* (2023) and *Powder Technology* (2024).  
-- 2 Iranian patents (2020, 2023).  
-- R&D Engineer at Hejrat Naghshe Jahan Co. (2021–2023).
+
 
 > See **[Publications](/publications)**, **[Patents](/patents)**, and **[CV](/cv)** for details.
