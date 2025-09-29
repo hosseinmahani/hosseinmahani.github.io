@@ -1,60 +1,49 @@
-# --- Site identity ---
+# Site identity
 title: "Hossein Mahani"
-description: "Mechanical Engineer — Additive Manufacturing, Nanocomposites, Powder Processing"
+description: "Mechanical Engineer | Additive Manufacturing, Nanocomposites, Powder Processing"
 url: "https://hosseinmahani.github.io"
-baseurl: ""   # keep empty for user.github.io root
 
-# --- Theme ---
+# Theme
 remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-remote-theme
 
 # --- Just the Docs options ---
+# Sidebar profile photo (use a large square image; the theme will display it in the sidebar)
+logo: /assets/img/headshot.jpg
+# (Optional) alt text for accessibility
+logo_alt: "Portrait of Hossein Mahani"
+
 search_enabled: true
 color_scheme: light
+heading_anchors: true
 
-# Sidebar profile photo (place your file at: assets/img/headshot.jpg)
-logo: /assets/img/headshot.jpg
+# Navigation
+# The sidebar menu is built from your pages.
+# Set these files with front matter and nav_order in each page:
+#   index.md            -> About (nav_order: 1)
+#   publications.md     -> Publications (nav_order: 2)
+#   cv.md               -> CV (nav_order: 3)
+#   contact.md          -> Contact (nav_order: 4)
+#
+# We intentionally DO NOT use nav_external_links or aux_links,
+# so no email/phone appears in the sidebar (Contact page handles that).
 
-# Contact in the sidebar (appears beneath the navigation)
-# Tip: You can add/remove items or re-order as you like.
-nav_external_links:
-  - title: "Email: h.mmahani@gmail.com"
-    url: "mailto:h.mmahani@gmail.com"
-    hide_icon: true
-  - title: "Tel: +98 937 045 5478"
-    url: "tel:+989370455478"
-    hide_icon: true
+# Exclude any pages you don’t want in the sidebar (add their paths here if needed)
+# nav_exclude: 
+#   - patents.md
 
-# --- Navigation behavior ---
-# Your sidebar tabs come from pages with front matter like:
-#   title: "Publications" | "CV" | "Contact"
-#   nav_order: 1, 2, 3 (controls order)
-# If you want the homepage (About) NOT to appear in the sidebar, set `nav_exclude: true` in index.md.
+# SEO (optional but nice)
+title_separator: "•"
 permalink: pretty
-strict_front_matter: false
 
-# Optional: tweak how pages sort (keep as-is unless you want alphabetical)
-# nav_sort: case_insensitive
+# Sitemap + robots (optional)
+# jekyll-sitemap is built into GitHub Pages; enable if you add plugins list later.
+# plugins:
+#   - jekyll-remote-theme
+#   - jekyll-sitemap
 
-# --- SEO & extras ---
-# You can add social image, sitemap, or analytics later if you like.
-# Order the sidebar (About first, then Publications, then CV)
-# You control order per page with 'nav_order' in each page’s front matter.
-
-
-# Nav (shows at top)
-# nav:
-# - name: "About"
-#    link: /
-# - name: "Publications"
-#    link: /publications
-#  - name: "Patents"
-#    link: /patents
-# - name: "CV"
-#   link: /cv
-# - name: "Contact"
-#   link: /contact
-
-# SEO
-# url: "https://hosseinmahani.github.io"
+# Build
+markdown: kramdown
+kramdown:
+  input: GFM
