@@ -1,35 +1,60 @@
-
+# --- Site identity ---
 title: "Hossein Mahani"
-description: "Mechanical Engineer | Additive Manufacturing, Nanocomposites, Powder Processing"
-# GitHub Pages Jekyll theme (no local install needed)
-remote_theme: "just-the-docs/just-the-docs"
+description: "Mechanical Engineer — Additive Manufacturing, Nanocomposites, Powder Processing"
+url: "https://hosseinmahani.github.io"
+baseurl: ""   # keep empty for user.github.io root
+
+# --- Theme ---
+remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-remote-theme
 
-# Just the Docs options
-just_the_docs:
-  search_enabled: false
-  color_scheme: light
+# --- Just the Docs options ---
+search_enabled: true
+color_scheme: light
 
-# Site settings
-author:
-  name: "Hossein Mahani"
-  email: "h.mmahani@gmail.com"
-  affiliation: "Isfahan University of Technology"
-  location: "Isfahan, Iran"
+# Sidebar profile photo (place your file at: assets/img/headshot.jpg)
+logo: /assets/img/headshot.jpg
+
+# Contact in the sidebar (appears beneath the navigation)
+# Tip: You can add/remove items or re-order as you like.
+nav_external_links:
+  - title: "Email: h.mmahani@gmail.com"
+    url: "mailto:h.mmahani@gmail.com"
+    hide_icon: true
+  - title: "Tel: +98 937 045 5478"
+    url: "tel:+989370455478"
+    hide_icon: true
+
+# --- Navigation behavior ---
+# Your sidebar tabs come from pages with front matter like:
+#   title: "Publications" | "CV" | "Contact"
+#   nav_order: 1, 2, 3 (controls order)
+# If you want the homepage (About) NOT to appear in the sidebar, set `nav_exclude: true` in index.md.
+permalink: pretty
+strict_front_matter: false
+
+# Optional: tweak how pages sort (keep as-is unless you want alphabetical)
+# nav_sort: case_insensitive
+
+# --- SEO & extras ---
+# You can add social image, sitemap, or analytics later if you like.
+# Order the sidebar (About first, then Publications, then CV)
+# You control order per page with 'nav_order' in each page’s front matter.
+
 
 # Nav (shows at top)
-nav:
-  - name: "About"
-    link: /
-  - name: "Publications"
-    link: /publications
-  - name: "Patents"
-    link: /patents
-  - name: "CV"
-    link: /cv
-  - name: "Contact"
-    link: /contact
+# nav:
+# - name: "About"
+#    link: /
+# - name: "Publications"
+#    link: /publications
+#  - name: "Patents"
+#    link: /patents
+# - name: "CV"
+#   link: /cv
+# - name: "Contact"
+#   link: /contact
 
 # SEO
-url: "https://hosseinmahani.github.io"
+# url: "https://hosseinmahani.github.io"
