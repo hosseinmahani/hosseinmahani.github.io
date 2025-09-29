@@ -10,8 +10,14 @@ nav_order: 1
 *Mechanical Engineer & Researcher*
 
 # About Me
-I am a mechanical engineer focused on **Additive Manufacturing (AM)** and advanced materials.  My interests include **metal and polymer 3D printing**, process–structure–property relationships, and **nanocomposite** design.  I enjoy translating research into practical solutions—**filament and powder development**, **DfAM**, and **process optimization**.  
-Recent work covers **powder processing** chains, **PLA/TPS/nanoclay** bio-based systems, and AM component characterization.  I’m also interested in **finite element analysis** for AM parts, linking simulation to experimental validation.   My long-term goal is to develop reliable AM materials and workflows for **medical devices** and **lightweight structures**.
+I am a mechanical engineer specializing in Additive Manufacturing (AM) and advanced materials, with a strong interest in linking process–structure–property relationships.
+My work spans 3D printing of polymers and metals, nanocomposite development, and powder processing for functional applications.
+Recent publications include studies on PLA/TPS/nanoclay filament nanocomposites (Polymer Advanced Technology, 2023) used in FDM 3d-printing method and spherical polystyrene/zinc oxide nanocomposite powders used in SLS method (Powder Technology, 2024).
+Currently, I am working on a new article focused on the simulation and finite element analysis (FEA) of Ti6Al4V lattice structures fabricated via Selective Laser Melting (SLM), with emphasis on mechanical strength and permeability properties.
+My broader research interests include biomedical applications, lightweight structures, and simulation-driven design for AM.
+Alongside research, I maintain strong technical skills in CAD, FEA, and AM process optimization, bridging design and experimental validation.
+I have achieved an IELTS score of 7 and a GRE score of 315, supporting my academic and research communication internationally.
+My goal is to contribute to the advancement of reliable AM materials and to expand the application of AM in both engineering and biomedical fields.
 
 
 
