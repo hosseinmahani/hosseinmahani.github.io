@@ -15,6 +15,11 @@ nav_order: 2
 - **B.Sc., Mechanical Engineering**, Islamic Azad University of Najafabad (2013–2017) — GPA 3/4
 
 
+## Patents
+- Thermoplastic polymer nanocomposite powder for use in 3D printing technology,
+selective laser sintering, and other melt compounding methods **IR patent No. 103189**  *Dec 2020*
+-  Lightweight rail guideplate with graded variable width capability **IR patent No. 109293** *May 2023*
+
 
 ## Snapshot
 - **R&D Engineer**, Hejrat Naghshe Jahan Co. (Jan 2021 – Aug 2023)  
