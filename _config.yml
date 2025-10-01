@@ -4,9 +4,10 @@ description: "Mechanical Engineer | Additive Manufacturing, Nanocomposites, Powd
 url: "https://hosseinmahani.github.io"
 
 # Theme
-remote_theme: pages-themes/slate@v0.2.0
+remote_theme: mmistakes/minimal-mistakes@4.26.2
 plugins:
   - jekyll-remote-theme
+  - jekyll-include-cache
 
 # --- Just the Docs options ---
 # Sidebar profile photo (use a large square image; the theme will display it in the sidebar)
