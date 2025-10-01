@@ -7,7 +7,7 @@ url: "https://hosseinmahani.github.io"
 remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-remote-theme
-  color_scheme: dark
+color_scheme: dark
 
 # --- Just the Docs options ---
 # Sidebar profile photo (use a large square image; the theme will display it in the sidebar)
