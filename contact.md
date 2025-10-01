@@ -2,6 +2,7 @@
 layout: default
 title: "Contact"
 permalink: /contact
+nav_order: 4
 ---
 
 # Contact
@@ -15,6 +16,5 @@ Isfahan University of Technology
 Isfahan, Iran
 
 **Profiles:**  
-- Google Scholar (add your link)  
-- ORCID (add your link)  
-- LinkedIn (add your link)
+- ORCID (https://orcid.org/0000-0002-1016-3730) 
+- LinkedIn (https://www.linkedin.com/in/hosseinmahani/)
