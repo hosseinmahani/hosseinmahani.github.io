@@ -4,7 +4,6 @@ description: "Mechanical Engineer | Additive Manufacturing, Nanocomposites, Powd
 url: "https://hosseinmahani.github.io"
 
 # Theme
-# Theme
 remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-remote-theme
