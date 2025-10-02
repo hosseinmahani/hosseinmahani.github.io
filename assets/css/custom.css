@@ -28,9 +28,10 @@ img.graphical-abstract {
   border-radius: 10px;  /* Optional: add rounded corners */
 }
 
-/* Justify the text in the "About Me" section */
-#about-me + p {
+/* Justify the text using the 'justified-text' class */
+.justified-text {
   text-align: justify;
   text-justify: inter-word;
 }
+
 
