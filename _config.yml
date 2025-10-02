@@ -17,8 +17,8 @@ logo: /assets/img/headshot.jpg
 # (Optional) alt text for accessibility
 logo_alt: "Portrait of Hossein Mahani"
 
-search_enabled: true
-color_scheme: light
+search_enabled: false
+color_scheme: dark
 heading_anchors: true
 
 # Navigation
