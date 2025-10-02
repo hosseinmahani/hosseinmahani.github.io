@@ -23,7 +23,7 @@ nav_order: 3
 **<span style="color:red; font-weight:bold;">⚠ *Notice* ⚠</span>**
    <br>
 
- These images are part of the results obtained in a comparative study of the mechanical properties and permeability of a simulated and 3D-printed gyroid structure. As this research is not yet published, I kindly request that you refrain from sharing or saving them. Should you require any clarification on any aspect of this research, please do not hesitate to contact me via email.
+ *These images are part of the results obtained in a comparative study of the mechanical properties and permeability of a simulated and 3D-printed gyroid structure. As this research is not yet published, I kindly request that you refrain from sharing or saving them. Should you require any clarification on any aspect of this research, please do not hesitate to contact me via email.*
 
 ![Graphical Abstract 3](/assets/img/graphical_abstract_3.jpg){:class="graphical-abstract"}
 
