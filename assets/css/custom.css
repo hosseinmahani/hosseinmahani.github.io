@@ -1,0 +1,20 @@
+/* Change the font of the name */
+h1#hossein-name {
+  font-family: 'Roboto', sans-serif; /* Change this to the font you prefer */
+  font-weight: bold;  /* Adjust if needed */
+  font-size: 2.5rem;   /* Change the size to your preference */
+  color: #333333;  /* Adjust color as needed */
+}
+
+/* Change the font of the "About Me" section */
+h2#about-me {
+  font-family: 'Roboto', sans-serif;
+  font-weight: normal;
+  font-size: 1.8rem;
+  color: #555555;
+}
+
+/* Apply additional styling for the whole body text if needed */
+body {
+  font-family: 'Roboto', sans-serif;
+}
