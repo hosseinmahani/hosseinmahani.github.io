@@ -6,7 +6,7 @@ nav_order: 1
 
 <img src="/assets/img/headshot.jpg" alt="Hossein Mahani" style="max-width:140px;border-radius:14px;margin:8px 0;">
 
-<h1 id="hossein-name">Hossein Mahani</h1>
+**<h1 id="hossein-name">Hossein Mahani</h1>**
 *Mechanical Engineer & Researcher*
 
 
