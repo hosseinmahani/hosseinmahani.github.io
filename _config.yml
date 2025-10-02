@@ -7,8 +7,9 @@ url: "https://hosseinmahani.github.io"
 remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-remote-theme
+  
 just_the_docs:
-  css_url: /assets/css/custom.css
+ css_url: "/assets/css/custom.css"  # Ensure this is correct path to your custom CSS file
 
 # --- Just the Docs options ---
 # Sidebar profile photo (use a large square image; the theme will display it in the sidebar)
