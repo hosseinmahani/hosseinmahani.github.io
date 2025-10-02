@@ -21,30 +21,13 @@ search_enabled: false
 color_scheme: dark
 heading_anchors: true
 
-# Navigation
-# The sidebar menu is built from your pages.
-# Set these files with front matter and nav_order in each page:
-#   index.md            -> About (nav_order: 1)
-#   publications.md     -> Publications (nav_order: 2)
-#   cv.md               -> CV (nav_order: 3)
-#   contact.md          -> Contact (nav_order: 4)
-#
-# We intentionally DO NOT use nav_external_links or aux_links,
-# so no email/phone appears in the sidebar (Contact page handles that).
 
-# Exclude any pages you don’t want in the sidebar (add their paths here if needed)
-# nav_exclude: 
-#   - patents.md
 
 # SEO (optional but nice)
 title_separator: "•"
 permalink: pretty
 
-# Sitemap + robots (optional)
-# jekyll-sitemap is built into GitHub Pages; enable if you add plugins list later.
-# plugins:
-#   - jekyll-remote-theme
-#   - jekyll-sitemap
+
 
 # Build
 markdown: kramdown
