@@ -3,8 +3,8 @@ layout: default
 title: "Publications"
 permalink: /publications
 nav_order: 3
-https://github.com/hosseinmahani/hosseinmahani.github.io/blob/main/publications.md
 ---
+#https://github.com/hosseinmahani/hosseinmahani.github.io/blob/main/publications.md
 
 # Publications
 
