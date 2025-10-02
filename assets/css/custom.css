@@ -27,3 +27,9 @@ img.graphical-abstract {
   margin: 20px 0;       /* Add spacing above and below the images */
   border-radius: 10px;  /* Optional: add rounded corners */
 }
+
+/* Justify the text using a custom class */
+.justified-text {
+  text-align: justify;
+  text-justify: inter-word;
+}
