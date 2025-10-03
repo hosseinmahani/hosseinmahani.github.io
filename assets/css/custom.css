@@ -53,8 +53,8 @@ img.graphical-abstract {
 
 /* Make the headshot circular */
 .headshot {
-  width: 5cm;       /* Keep the size of the headshot the same */
-  height: 5cm;      /* Ensure the height is the same as the width */
+  width: 140px;       /* Keep the size of the headshot the same */
+  height: 140px;      /* Ensure the height is the same as the width */
   border-radius: 50%; /* Make the image circular */
   object-fit: cover;  /* Ensure the image is cropped to fit the circular shape */
    margin-right: 15px;
