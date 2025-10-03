@@ -51,3 +51,8 @@ selective laser sintering, and other melt compounding methods **IR patent No. 10
 ## Awards
 - **2nd** — Feasibility of 3D-Printed Heat Exchangers (Iran’s National Elites Foundation, *2020* )  
 - **2nd** — Design a Specific Bioprinter Nozzle (Iran’s National Elites Foundation, *2020* )
+
+
+## Language Skills
+- **IELTS: 7** *(Listening: 8 , Reading: 6.5, Writing: 6, Speaking: 6.5)*
+- **GRE General: Test: 315** *(Verbal: 154, Quantitative: 161, Writing: 3.5)*
