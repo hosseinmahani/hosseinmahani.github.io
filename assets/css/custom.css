@@ -48,8 +48,7 @@ img.graphical-abstract {
 }
 
 .name-container {
-  margin-left: 15px;  /* Space between the image and the name */
-  flex: 1;            /* Ensure the name container takes the remaining space */
+  max-width: 600px;
 }
 
 /* Make the headshot circular */
@@ -58,6 +57,7 @@ img.graphical-abstract {
   height: 140px;      /* Ensure the height is the same as the width */
   border-radius: 50%; /* Make the image circular */
   object-fit: cover;  /* Ensure the image is cropped to fit the circular shape */
+   margin-right: 15px;
 }
 
 /* Justify the text using the 'justified-text' class */
