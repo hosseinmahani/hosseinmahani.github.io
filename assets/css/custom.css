@@ -46,3 +46,22 @@ img.graphical-abstract {
   margin-bottom: 15px;
 }
 
+
+/* Flexbox layout for the headshot and name */
+.headshot-container {
+  display: flex;
+  align-items: center;  /* Align vertically */
+}
+
+.name-container {
+  margin-left: 15px;  /* Space between the image and the name */
+}
+
+/* Make the headshot circular */
+.headshot {
+  width: 140px;       /* Keep the size of the headshot the same */
+  height: 140px;      /* Ensure the height is the same as the width */
+  border-radius: 50%; /* Make the image circular */
+  object-fit: cover;  /* Ensure the image is cropped to fit the circular shape */
+}
+
