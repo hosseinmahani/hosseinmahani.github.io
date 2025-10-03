@@ -69,3 +69,15 @@ img.graphical-abstract {
   line-height: 1.6;  /* Optional: improve readability */
 }
 
+
+/* Change the background color */
+body {
+  background-color: #f0f0f0; /* Adjust this to your preferred color */
+}
+
+/* Change the sidebar background color */
+aside {
+  background-color: #333333; /* Sidebar background color */
+  color: #ffffff; /* Sidebar text color */
+}
+
