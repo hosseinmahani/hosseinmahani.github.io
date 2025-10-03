@@ -16,5 +16,5 @@ Isfahan University of Technology
 Isfahan, Iran
 
 **Profiles:**  
-- [ORCID] (https://orcid.org/0000-0002-1016-3730)
-- [LinkedIn] (https://www.linkedin.com/in/hosseinmahani/)
+- [ORCID](https://orcid.org/0000-0002-1016-3730)
+- [LinkedIn](https://www.linkedin.com/in/hosseinmahani/)
