@@ -29,8 +29,8 @@ My goal is to contribute to the advancement of reliable AM materials and to expa
 - Powder Processing  
 - Materials characterization  
 - Finite Element Analysis (FEA)
-
-
+  
+   
 
 
 > See  **[CV](/cv)** , **[Publications](/publications)** , and **[Contact](/contact)** for details.
