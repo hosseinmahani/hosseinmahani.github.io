@@ -12,7 +12,7 @@ nav_order: 4
 
 **Affiliation:**  
 Department of Mechanical Engineering  
-Isfahan University of Technology  
+[Isfahan University of Technology](https://english.iut.ac.ir/)
 Isfahan, Iran
 
 **Profiles:**  
