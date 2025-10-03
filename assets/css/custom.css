@@ -33,6 +33,7 @@ img.graphical-abstract {
 .justified-text {
   text-align: justify;
   text-justify: inter-word;
+  display: block;  /* Ensure it's treated as a block element */
 }
 
 
