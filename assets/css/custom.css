@@ -29,13 +29,6 @@ img.graphical-abstract {
 }
 
 
-/* Justify the text using the 'justified-text' class */
-.justified-text {
-  text-align: justify;
-  text-justify: inter-word;
-  display: block;  /* Ensure it's treated as a block element */
-  width: 100%; /* Ensure full width */
-}
 
 
 /* Style the notice text */
@@ -51,10 +44,12 @@ img.graphical-abstract {
 .headshot-container {
   display: flex;
   align-items: center;  /* Align vertically */
+  flex-wrap: wrap;      /* Ensure it wraps properly on smaller screens */
 }
 
 .name-container {
   margin-left: 15px;  /* Space between the image and the name */
+  flex: 1;            /* Ensure the name container takes the remaining space */
 }
 
 /* Make the headshot circular */
@@ -63,5 +58,14 @@ img.graphical-abstract {
   height: 140px;      /* Ensure the height is the same as the width */
   border-radius: 50%; /* Make the image circular */
   object-fit: cover;  /* Ensure the image is cropped to fit the circular shape */
+}
+
+/* Justify the text using the 'justified-text' class */
+.justified-text {
+  text-align: justify;
+  text-justify: inter-word;
+  display: block;  /* Ensure it's treated as a block element */
+  width: 100%; /* Ensure full width */
+  line-height: 1.6;  /* Optional: improve readability */
 }
 
