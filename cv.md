@@ -11,7 +11,7 @@ nav_order: 2
 
 ## Education
 - **M.Sc., Mechanical Engineering**, Isfahan University of Technology *(2017–2020)* — GPA 3/4  
-  Thesis: *Mechanical, thermal, and structural properties of PLA/TPS/nanoclay filament for 3D printing* — **A+**
+  Thesis: *Mechanical, thermal, and structural properties of PLA/TPS/nanoclay filament for 3D printing* — **A+**  
   (QS University Ranking: [908 in the best Global Universities](https://www.usnews.com/education/best-global-universities/isfahan-university-of-technology-502590))
 - **B.Sc., Mechanical Engineering**, Islamic Azad University of Najafabad *(2013–2017)* — GPA 3/4
 
