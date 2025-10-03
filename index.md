@@ -4,14 +4,16 @@ title: "About"
 nav_order: 1
 ---
 
-<div class="headshot-container">
-  <img src="/assets/img/headshot.jpg" alt="Hossein Mahani" class="headshot">
+<div class="headshot-container" style="display: flex; align-items: center; flex-wrap: wrap;">
+  <img 
+    src="/assets/img/headshot.jpg" 
+    alt="Hossein Mahani" 
+    style="width: 3cm; height: 3cm; border-radius: 50%; object-fit: cover; margin-right: 15px;">
   <div class="name-container">
     <h1 id="hossein-name">Hossein Mahani</h1>
     <p>*Mechanical Engineer & Researcher*</p>
   </div>
 </div>
-
 
 <h2 id="about-me">About Me</h2>
 <p class="justified-text">
