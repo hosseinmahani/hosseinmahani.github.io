@@ -55,4 +55,4 @@ selective laser sintering, and other melt compounding methods **IR patent No. 10
 
 ## Language Skills
 - **IELTS: 7** *(Listening: 8 , Reading: 6.5, Writing: 6, Speaking: 6.5)*
-- **GRE General: Test: 315** *(Verbal: 154, Quantitative: 161, Writing: 3.5)*
+- **GRE General Test: 315** *(Verbal: 154, Quantitative: 161, Writing: 3.5)*
