@@ -8,7 +8,7 @@ nav_order: 1
   <img 
     src="/assets/img/headshot.jpg" 
     alt="Hossein Mahani" 
-    style="width: 3cm; height: 3cm; border-radius: 50%; object-fit: cover; margin-right: 15px;">
+    style="width: 4cm; height: 4cm; border-radius: 50%; object-fit: cover; margin-right: 15px;">
   <div class="name-container">
     <h1 id="hossein-name">Hossein Mahani</h1>
     <p>*Mechanical Engineer & Researcher*</p>
@@ -16,7 +16,7 @@ nav_order: 1
 </div>
 
 <h2 id="about-me">About Me</h2>
-<p class="justified-text">
+<p style="text-align: justify; text-justify: inter-word; line-height: 1.6;">
 I am a mechanical engineer specializing in Additive Manufacturing (AM) and advanced materials, with a strong interest in linking process–structure–property relationships. My work spans 3D printing of polymers and metals, nanocomposite development, and powder processing for functional applications. Recent publications include studies on PLA/TPS/nanoclay filament nanocomposites (Polymer Advanced Technology, 2023) used in FDM 3d-printing method and spherical polystyrene/zinc oxide nanocomposite powders used in SLS method (Powder Technology, 2024). Currently, I am working on a new article focused on the simulation and finite element analysis (FEA) of Ti6Al4V lattice structures fabricated via Selective Laser Melting (SLM), with emphasis on mechanical strength and permeability properties. My broader research interests include biomedical applications, lightweight structures, and simulation-driven design for AM. Alongside research, I maintain strong technical skills in CAD, FEA, and AM process optimization, bridging design and experimental validation. I have achieved an IELTS score of 7 and a GRE score of 315, supporting my academic and research communication internationally. My goal is to contribute to the advancement of reliable AM materials and to expand the application of AM in both engineering and biomedical fields.
 </p>
 
