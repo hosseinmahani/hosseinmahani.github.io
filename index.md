@@ -4,10 +4,13 @@ title: "About"
 nav_order: 1
 ---
 
-<img src="/assets/img/headshot.jpg" alt="Hossein Mahani" style="max-width:140px;border-radius:14px;margin:8px 0;">
-
-<h1 id="hossein-name">Hossein Mahani</h1>
-*Mechanical Engineer & Researcher*
+<div class="headshot-container">
+  <img src="/assets/img/headshot.jpg" alt="Hossein Mahani" class="headshot">
+  <div class="name-container">
+    <h1 id="hossein-name">Hossein Mahani</h1>
+    <p>*Mechanical Engineer & Researcher*</p>
+  </div>
+</div>
 
 
 <h2 id="about-me">About Me</h2>
