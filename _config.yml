@@ -11,6 +11,14 @@ plugins:
 just_the_docs:
  css_url: "/assets/css/custom.css"  # Ensure this is correct path to your custom CSS file
 
+
+# --- Custom CSS to change background and sidebar colors ---
+  head:
+    - "<style>"
+    - "body { background-color: #f0f0f0; }"  # Change background color here
+    - "aside { background-color: #333333; color: #ffffff; }"  # Change sidebar background color and text color here
+    - "</style>"
+
 # --- Just the Docs options ---
 # Sidebar profile photo (use a large square image; the theme will display it in the sidebar)
 logo: /assets/img/headshot.jpg
