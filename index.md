@@ -12,8 +12,8 @@ nav_order: 1
     "It does not matter how slowly you go as long as you do not stop. – Confucius",
     "You have to learn the rules of the game. And then you have to play better than anyone else. – Albert Einstein",
     "The future belongs to those who believe in the beauty of their dreams. – Eleanor Roosevelt",
-    "Do not wait to strike till the iron is hot, but make it hot by striking. – William Butler Yeats"
-    "The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack in will. – Vince Lombardi
+    "Do not wait to strike till the iron is hot, but make it hot by striking. – William Butler Yeats",
+    "The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack in will. – Vince Lombardi",
     "If you are not willing to risk the usual, you will have to settle for the ordinary. – Jim Rohn"
   ];
 
