@@ -4,6 +4,30 @@ title: "About"
 nav_order: 1
 ---
 
+<!-- JavaScript to display a random quote -->
+<script>
+  const quotes = [
+    "Success is not final, failure is not fatal: It is the courage to continue that counts. – Winston Churchill",
+    "The only way to do great work is to love what you do. – Steve Jobs",
+    "It does not matter how slowly you go as long as you do not stop. – Confucius",
+    "You have to learn the rules of the game. And then you have to play better than anyone else. – Albert Einstein",
+    "The future belongs to those who believe in the beauty of their dreams. – Eleanor Roosevelt",
+    "Do not wait to strike till the iron is hot, but make it hot by striking. – William Butler Yeats"
+    "The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack in will. – Vince Lombardi
+    "If you are not willing to risk the usual, you will have to settle for the ordinary. – Jim Rohn"
+  ];
+
+  // Function to display a random quote
+  function getRandomQuote() {
+    const randomIndex = Math.floor(Math.random() * quotes.length);
+    document.getElementById("quote-section").innerText = quotes[randomIndex];
+  }
+
+  // Call the function when the page loads
+  window.onload = getRandomQuote;
+</script>
+
+
 <div class="headshot-container" style="display: flex; align-items: center; flex-wrap: wrap;">
   <img 
     src="/assets/img/headshot.jpg" 
