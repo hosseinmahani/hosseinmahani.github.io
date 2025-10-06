@@ -37,7 +37,7 @@ nav_order: 1
   <img 
     src="/assets/img/headshot.jpg" 
     alt="Hossein Mahani" 
-    style="width: 4cm; height: 4cm; border-radius: 50%; object-fit: cover; margin-right: 15px;">
+    style="width: 4cm; height: 4cm; border-radius: 25%; object-fit: cover; margin-right: 15px;">
   <div class="name-container">
     <h1 id="hossein-name">Hossein Mahani</h1>
     <p>*Mechanical Engineer & Researcher*</p>
