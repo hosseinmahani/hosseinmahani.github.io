@@ -4,6 +4,11 @@ title: "About"
 nav_order: 1
 ---
 
+<!-- Dynamic Inspirational Quote Section -->
+<div id="quote-section" style="font-style: italic; color: #555; margin: 20px 0; font-size: 1.2rem;">
+  <!-- This will be replaced by JavaScript -->
+</div>
+
 <!-- JavaScript to display a random quote -->
 <script>
   const quotes = [
@@ -26,11 +31,6 @@ nav_order: 1
   // Call the function when the page loads
   window.onload = getRandomQuote;
 </script>
-
-<!-- Dynamic Inspirational Quote Section -->
-<div id="quote-section" style="font-style: italic; color: #555; margin: 20px 0; font-size: 1.2rem;">
-  <!-- This will be replaced by JavaScript -->
-</div>
 
 
 <div class="headshot-container" style="display: flex; align-items: center; flex-wrap: wrap;">
