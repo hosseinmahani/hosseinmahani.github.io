@@ -6,8 +6,8 @@ nav_order: 1
 
 <!-- Static Inspirational Quote Section -->
 <p style="font-style: italic; color: #555; margin: 20px 0; font-size: 1.2rem;">
-  "The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack of will."  
-  – Vince Lombardi
+  "There are no secrets to success. It is the result of preparation, hard work, and learning from failure."  
+  – Colin Powell
 </p>
 
 
