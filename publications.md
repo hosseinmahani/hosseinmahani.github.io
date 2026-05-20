@@ -18,7 +18,7 @@ nav_order: 3
 ![Graphical Abstract 2](/assets/img/graphical_abstract_2.jpg){:class="graphical-abstract"}
 
 
-3. (Under Review) **Mahani, H.**, Ebrahimi, M. Kermanpour, A. (2026) *On the compression strength and fluid permeability of LPBF-fabricated Ti6Al4V gyroid structures for spinal implant application*. **Progress in Additive Manufacturing**
+3. (*Accepted*) **Mahani, H.**, Ebrahimi, M. Kermanpour, A. (2026) *On the compression strength and fluid permeability of LPBF-fabricated Ti6Al4V gyroid structures for spinal implant application*. **Progress in Additive Manufacturing**
 
 **<span style="color:red; font-weight:bold;">⚠ *Notice* ⚠</span>**
    <br>
