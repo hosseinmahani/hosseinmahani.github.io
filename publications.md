@@ -18,12 +18,10 @@ nav_order: 3
 ![Graphical Abstract 2](/assets/img/graphical_abstract_2.jpg){:class="graphical-abstract"}
 
 
-3. (*Accepted*) **Mahani, H.**, Ebrahimi, M. Kermanpour, A. (2026) *On the compression strength and fluid permeability of LPBF-fabricated Ti6Al4V gyroid structures for spinal implant application*. **Progress in Additive Manufacturing**
+3.  **Mahani, H.**, Ebrahimi, M. Kermanpour, A. (2026) *On the compression strength and fluid permeability of LPBF-fabricated Ti6Al4V gyroid structures for spinal implant application*. **Progress in Additive Manufacturing**
+    DOI: <https://doi.org/10.1007/s40964-026-01824-3>
 
-**<span style="color:red; font-weight:bold;">⚠ *Notice* ⚠</span>**
-   <br>
 
-*<span style="color:red; font-weight:bold;"> These images are part of the results obtained in a comparative study of the mechanical properties and permeability of a simulated and 3D-printed Titanium Alloy gyroid structures. As this research is **not yet published**, I kindly request that you avoid from sharing or saving them. Should you require any clarification on any aspect of this research, please do not hesitate to contact me via email. ⚠</span>*
 
 **Abstract**  
 
